@@ -1,7 +1,12 @@
-#        |                _)         |        _)      |             
-#   _ \    \    _ \    \   |   _|     _ \   _| |   _` |   _` |   -_)
-#  .__/ _| _| \___/ _| _| _| \__|   _.__/ _|  _| \__,_| \__, | \___|
-# _|                                                    ____/       
+```ansi
+[38;2;255;20;147m       |                _)         |        _)      |             
+[38;2;200;40;180m  _ \    \    _ \    \   |   _|     _ \   _| |   _` |   _` |   -_)
+[38;2;150;50;210m .__/ _| _| \___/ _| _| _| \__|   _.__/ _|  _| \__,_| \__, | \___|
+[38;2;100;60;240m_|                                                    ____/       
+
+[38;2;0;120;255m          >>> [ Secure Audio Streaming & Network Capture Module ] <<<
+                                                                  [38;2;255;0;0mm[38;2;235;0;0ma[38;2;215;0;0md[38;2;195;0;0me [38;2;175;0;0mb[38;2;155;0;0my [38;2;135;0;0mx[38;2;115;0;0mx[38;2;95;0;0ml[38;2;75;0;0mr[38;2;55;0;0mn
+[0m```
 
 **Secure Audio Streaming & Network Capture Module**
 
@@ -70,6 +75,4 @@ Feel free to open an issue or submit a Pull Request! And please dont be shy to t
 ## 📜 Story
 This project started because I produce music, and I often share my demo tracks with friends over Discord streams. We usually had to listen to music through Discord bots or screen sharing, but that either caused heavy PC lag (making it impossible to play games simultaneously) or completely ruined the audio quality.
 
-I promised a friend that I would find a real solution to this problem we've suffered through for years—and here it is. I present to everyone this simple, lightweight, yet incredibly effective audio tool. 
-
-Huge thanks to my friend **txtisalie** for all the help testing and shaping this project!
+I promised a friend that I would find a real solution to this problem we've suffered through for years and here it is. I present to everyone this simple, lightweight, yet incredibly effective audio tool. Happy listening!
