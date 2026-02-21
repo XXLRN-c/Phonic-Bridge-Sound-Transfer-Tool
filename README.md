@@ -1,8 +1,9 @@
-#        |                _)         |        _)      |             
-#   _ \    \    _ \    \   |   _|     _ \   _| |   _` |   _` |   -_)
-#  .__/ _| _| \___/ _| _| _| \__|   _.__/ _|  _| \__,_| \__, | \___|
-# _|                                                    ____/       
-
+```text
+       |                _)         |        _)     |             
+  _ \  __ \   _ \  __ \  |   __|    _ \  __| |  _` |  _` |  -_) 
+ .__/ _|  _| \___/ _| _| _| \__|  _.__/ _|  _| \__,_| \__, | \___| 
+_|                                                    ____/
+```
 **Secure Audio Streaming & Network Capture Module**
 
 Phonic Bridge is a fast, zero-configuration C++ networking application designed to seamlessly capture and stream quality audio over UDP. Built purely using native Windows APIs (WASAPI, Winsock2) without heavy dependencies, it achieves minimum latency and extreme reliability for real-time audio sharing.
