@@ -695,20 +695,11 @@ void startReceiver(const std::string& hostIP, int hostPort, uint32_t roomPin) {
 // ======================================================================
 void animateTitleThread() {
     std::string text = "Phonic Bridge By XXLRN";
-    while (true) {
-        std::string current = "";
-        for (char c : text) {
-            current += c;
-            SetConsoleTitleA(current.c_str());
-            Sleep(80);
-        }
-        Sleep(3000);
-        while (current.length() > 0) {
-            current.pop_back();
-            SetConsoleTitleA(current.empty() ? " " : current.c_str());
-            Sleep(30);
-        }
-        Sleep(1000);
+    std::string current = "";
+    for (char c : text) {
+        current += c;
+        SetConsoleTitleA(current.c_str());
+        Sleep(80);
     }
 }
 
