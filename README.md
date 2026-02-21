@@ -59,7 +59,7 @@ If you are playing with friends over the internet, a direct UDP connection might
 **Disclaimer:** I am not sponsored by or affiliated with Radmin VPN in any way. It's simply a free and reliable tool that I used to test this project.*
 
 ### Step-by-Step Radmin VPN Setup:
-1. **Download & Install:** Every friend (Host, Sender, and Receivers) must download and install **Radmin VPN** (or Hamachi).
+1. **Download & Install:** Every friend (Host, Sender, and Receivers) must download and install **Radmin VPN** https://www.radmin-vpn.com (or Hamachi).
 2. **Create Network:** The Host opens Radmin VPN, clicks `Network -> Create Network`, creates a Network Name and Password.
 3. **Join Network:** The other friends click `Network -> Join Network`, and enter the Host's Network Name and Password.
 4. **Get the IP:** In the Radmin VPN window, you will see an IP address next to the Host's PC name (it usually starts with `26.x.x.x`). 
