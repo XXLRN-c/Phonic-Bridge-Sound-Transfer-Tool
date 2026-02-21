@@ -1,0 +1,18 @@
+# Prerequisites
+*.obj
+*.res
+*.ilk
+*.pdb
+
+# Build output
+app.exe
+*.exe
+
+# User Profiles
+*.xxlrn
+
+# Visual Studio files
+.vs/
+*.vcxproj
+*.vcxproj.user
+*.sln
